@@ -16,5 +16,10 @@ namespace Concursos.Forms
         {
             InitializeComponent();
         }
+
+        private void ciortarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
